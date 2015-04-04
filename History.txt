@@ -1,0 +1,21 @@
+History
+--------
+V1.0
+-inital Board
+
+V1.1
+- Vorwiderstand an µC RX von RS485 Wandler Ausgang R
+(µC 3,3 Volt - RS485 Wandler sind 5 Volt)
+
+V1.2
+- Bestückungsdruck verkleinert und ausgerichtet.
+- Bestückungsdruck bei einigen Bauteilen angepasst
+- DC-DC Wandler weiter nach unten geschoben (etwas geroutet) um Platz für Gehäusedeckel zu schaffen
+- C16 etwas runter gerückt, obwohl Stancil (V1.1) dazu nicht passt
+- tValue ausgerichtet, für Bestückung -> nicht zum Fertigen geben
+
+V1.3
+- neuen 100 nF am Ausgang vom Tiefpass 2. Ordnung
+- Schutzkondensator und Schutzwiderstände am INA219 Eingang entfernt
+- neuen Schutzwiderstand am GND des INA219 eingefügt
+- Bottom Silkscreen mit Beschreibung versehen
