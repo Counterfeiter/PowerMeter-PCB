@@ -15,3 +15,4 @@ Included
 - zipped farbication files (gerber, drill files)
 - schematic
 - PCB design
+- Mouser BOM
